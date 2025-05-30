@@ -1,4 +1,4 @@
-# What I Learned About Wi-Fi Security
+# Wi-Fi Security Essentials: Monitoring, Sniffing, and Attacking
 
 This repository summarizes everything I learned during my exploration of Wi-Fi networks, ethical hacking basics, and wireless security.
 
